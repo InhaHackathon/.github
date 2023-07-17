@@ -41,7 +41,7 @@ T map API를 활용하여 자신의 위치와 푸드뱅크의 위치를 띄워�
 ## Main
 |<img src="https://github.com/InhaHackathon/.github/assets/52882799/dff8105a-6904-4c52-9a13-a57f31c32dc0" width=100% />|<img src="https://github.com/InhaHackathon/.github/assets/52882799/9c49f6f2-3350-4e28-823f-0acd4db9bfe7" width=100% />|<img src="https://github.com/InhaHackathon/.github/assets/52882799/3a091786-a7d1-4e91-af97-164f97c2f961" width=100% />|<img src="https://github.com/InhaHackathon/.github/assets/52882799/baf5b60d-3491-4511-ae9b-ad3f1f0e1b0b" width=100% />| 
 |:---------:|:---------:|:---------:|:---------:|
-|제품 조회|재퓸 등록|관심 상품 등록|제품 검색|  
+|제품 조회|제품 등록|관심 상품 등록|제품 검색|  
   
 ## Chatting & Search FoodBank
 |<img src = "https://github.com/InhaHackathon/.github/assets/52882799/b377019a-2c31-4af7-b86a-ea5f87216d2d" width = "100%">|<img src = "https://github.com/InhaHackathon/.github/assets/52882799/cdb48d2e-f407-4c92-800b-525912a28382" width = "100%">|<img src = "https://github.com/InhaHackathon/.github/assets/52882799/40510e5f-35a7-4008-91cc-43f1e8ac43fa" width = "100%">| 
