@@ -20,12 +20,12 @@ T map API를 활용하여 자신의 위치와 푸드뱅크의 위치를 띄워�
 <div>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white">
 <br/>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666?style=for-the-badge&logo=hibernate&logoColor=white"> 
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666?style=for-the-badge&logo=hibernate&logoColor=white"> 
 <br/>
     <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </div>  
   
-## Members
+# Members
 
 |<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/75682734?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/85067003?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/128335727?s=70&v=4" width="128" />| 
 |:---------:|:---------:|:---------:|:---------:|
@@ -41,7 +41,7 @@ T map API를 활용하여 자신의 위치와 푸드뱅크의 위치를 띄워�
 ## Main
 |<img src="https://github.com/InhaHackathon/.github/assets/52882799/dff8105a-6904-4c52-9a13-a57f31c32dc0" width=100% />|<img src="https://github.com/InhaHackathon/.github/assets/52882799/9c49f6f2-3350-4e28-823f-0acd4db9bfe7" width=100% />|<img src="https://github.com/InhaHackathon/.github/assets/52882799/3a091786-a7d1-4e91-af97-164f97c2f961" width=100% />|<img src="https://github.com/InhaHackathon/.github/assets/52882799/baf5b60d-3491-4511-ae9b-ad3f1f0e1b0b" width=100% />| 
 |:---------:|:---------:|:---------:|:---------:|
-|제품 조회|재퓸 등록|관심 상품 등록|제품 검색|  
+|제품 조회|제품 등록|관심 상품 등록|제품 검색|  
   
 ## Chatting & Search FoodBank
 |<img src = "https://github.com/InhaHackathon/.github/assets/52882799/b377019a-2c31-4af7-b86a-ea5f87216d2d" width = "100%">|<img src = "https://github.com/InhaHackathon/.github/assets/52882799/cdb48d2e-f407-4c92-800b-525912a28382" width = "100%">|<img src = "https://github.com/InhaHackathon/.github/assets/52882799/40510e5f-35a7-4008-91cc-43f1e8ac43fa" width = "100%">| 
