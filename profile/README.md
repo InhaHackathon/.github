@@ -3,6 +3,8 @@
 ![Total%20Commit](https://img.shields.io/badge/Total%20Commit-200%2B-green)
 [![먹어요](https://img.shields.io/badge/INHA%20SW%20NET%20Zero%20공동해커톤-장려-9cf)](https://github.com/InhaHackathon)  
 
+<img src="https://github.com/InhaHackathon/.github/assets/52882799/573ed802-bfc4-4949-af6c-e56269675b6c" width="100%"/>
+
 [2023 INHA SW NET-Zero 공동 해커톤](https://barun.kyonggi.ac.kr/ko/extracurricular/mypage/active/view/12142?p=1)
 - **구글 OAuth 로그인**  
 접근성을 향상시키기 위해 자체 로그인이 아닌, 구글 로그인을 구현하였습니다.
