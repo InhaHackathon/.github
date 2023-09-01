@@ -20,7 +20,7 @@ T map API를 활용하여 자신의 위치와 푸드뱅크의 위치를 띄워�
   
 # Skills
 <div>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"> <img src="https://img.shields.io/badge/Material Design 2-757575?style=for-the-badge&logo=materialdesign&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white">
 <br/>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666?style=for-the-badge&logo=hibernate&logoColor=white"> 
 <br/>
@@ -32,7 +32,7 @@ T map API를 활용하여 자신의 위치와 푸드뱅크의 위치를 띄워�
 |<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/75682734?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/85067003?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/128335727?s=70&v=4" width="128" />| 
 |:---------:|:---------:|:---------:|:---------:|
 |[박동민](https://github.com/chattymin)|[이석현](https://github.com/Aram-su)|[한관희](https://github.com/limehee)|[김정은](https://github.com/Jeong-Ag)|
-| `PM` `Android` | `Back-end` `Server` | `Back-end` | `Android` |  
+| `PL` `Android` | `Back-end` `Server` | `Back-end` | `Android` |  
   
 # Preview
 ## Login
